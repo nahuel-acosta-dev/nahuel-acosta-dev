@@ -1,16 +1,20 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy Nahuel Acosta
 
-<!--
-**nahuel-acosta-dev/nahuel-acosta-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+¡Encantado de conocerte! Soy un desarrollador Web Full-Stack apasionado por crear experiencias digitales increíbles. Mi enfoque principal está en el desarrollo con JavaScript y TypeScript, utilizando tecnologías como React y Node.js. Además, estoy familiarizado con frameworks como Bootstrap, MaterialUI y TailwindCSS para crear interfaces atractivas y responsivas.
 
-Here are some ideas to get you started:
+## Tecnologías y herramientas
+- 💻 JavaScript, TypeScript
+- ⚛️ React
+- 🚀 Node.js
+- 🎨 Bootstrap, MaterialUI, TailwindCSS
+- 🐍 Python, Django
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+¡Hablemos de código! Puedes encontrarme en:
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/nahuel-acosta-dev/)
+- 📧 [Correo electrónico](brianacostanahuel2000@gmail.com)
+- 🔗 [Sitio web](https://www.nahuel-acosta.com.ar/)
+
+¡Estoy emocionado por las oportunidades de colaboración y aprendizaje!
